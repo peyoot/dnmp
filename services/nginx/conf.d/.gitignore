@@ -2,4 +2,4 @@
 !.gitignore
 !certs/localhost/
 !localhost.conf
-!eccee.conf
+!dey-mirror.conf
