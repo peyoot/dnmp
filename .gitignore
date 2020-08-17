@@ -7,4 +7,6 @@ docker-compose.yml.*
 www/*
 !www/localhost/
 !www/dey-mirror/
+!www/tmp
+!www/pm.eccee
 logs/*
